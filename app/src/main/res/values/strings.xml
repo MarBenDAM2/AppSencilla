@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppSencilla</string>
+    <string name="nombre">Escribe tu nombre:</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="Cambiar">Cambiar color</string>
+    <string name="Volver">Volver</string>
+</resources>
